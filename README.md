@@ -1,7 +1,7 @@
 # Fábrica de Software 2025/1
 
 ## Nome da Equipe
-- Walter Coan
+- lucas koehn, marcelo momm
 
 ## Propostas de projeto
 
